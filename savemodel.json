@@ -1,0 +1,13 @@
+{
+    "level": 11,
+    "health": 11,
+    "tester1_Model": {
+        "randomInt": 11,
+        "randomString": "Hey you pink!"
+    },
+    "intList": [
+        10,
+        11,
+        12
+    ]
+}
